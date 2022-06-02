@@ -1,6 +1,7 @@
 # git-helper
 
-| Contributor name | Contribution |
-|: ------ :|: ------- :|
-| Avinash | Footer | 
+|      Member      |  Designation |
+|:-------------:|------:|
+| Sudhanshu Ranjan | Full Stack Dev |
+
 
