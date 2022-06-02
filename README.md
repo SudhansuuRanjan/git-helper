@@ -1,5 +1,6 @@
 # git-helper
 
-|: Contributor name :|: Contribution :|
+| Contributor name | Contribution |
+|: ------ :|: ------- :|
 | Avinash | Footer | 
 
