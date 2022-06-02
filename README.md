@@ -3,6 +3,6 @@
 |      Member      |  Designation |
 |:-------------:|------:|
 | Sudhanshu Ranjan | Full Stack Dev |
-|Yugank Verma|
+|Yugank Verma| Frontend Dev|
 
 
