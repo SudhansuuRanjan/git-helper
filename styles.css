@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 2em;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+h3{
+    flex: 1;
+    margin-top: 0em;
+    font-size: 1.5em;
+    
+}
+h3 span{
+    border: 0px solid red;
+    padding: 0.2em 0.2em;
+    border-radius: 10px;
+    color: white;
+    background-color: aqua;
+}
+.search{
+    flex: 1;
+    height: 2em;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.search input{
+    border-radius: 13px;
+    border: 0;
+    background-color: rgb(176, 208, 215);
+    margin-right: 0.5em;
+    color: black;
+}
+.search button{
+    background-color: rgb(80, 80, 237);
+    border-radius: 10px;
+}
+.title{
+    text-align: center;
+    background-color: aqua;
+    padding: 1em 0em;
+    font-size: 3em;
+    color: white;
+}
+.body{
+    margin: 0em 5.5em;
+    margin-top: 1em;
+}
+h2{
+    font-family: sans-serif;
+}
+p{
+    font-size: 1em;
+    font-family: sans-serif;
+}
+.init{
+    display: flex;
+    background-color: black;
+    color: grey;
+    border-radius: 15px;
+}
+.init1{
+    flex: 1;
+    padding: 0.5em 0em;
+    padding-left: 2em;
+    font-size: 1.2em;
+}
+.init1 input{
+    background-color: black;
+    color: white;
+    border: 0;
+}
+.initbt{
+    flex: 1;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding-right: 0.3em;
+}
+.footer1{
+    background-color: grey;
+    text-align: center;
+    color: antiquewhite;
+    padding: 0.3em 0em;
+    margin-top: 7em;
+}
+.footer2{
+    background-color: black;
+    color: white;
+}
+.subfooter1{
+    text-align: center;
+    padding: 10px 0;
+}
+.subfooter2{
+    display: flex;
+    padding: 10px 0;
+    flex-wrap: wrap;
+}
+.subfooter2 div{
+    flex: 1;
+    text-align: center;
+}
+.subfooter3{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
